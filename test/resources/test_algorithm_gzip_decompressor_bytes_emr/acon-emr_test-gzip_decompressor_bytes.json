@@ -1,0 +1,9 @@
+{
+  "environment": {},
+  "algorithm" : {
+    "python_class": "AlgorithmGzipDecompressorBytes",
+    "parameters": {
+      "thread_pool_size": 8
+    }
+  }
+}
